@@ -12,7 +12,7 @@
 - Disposicion de API para implementar a FrontEnd
 
 ## Menu principal
-<img src="E:\Alura\Java - Practicando Spring Boot - Challenge Literalura\literalura\img\Menu principal.png"/>
+<img src="img\Menu principal.png"/>
 
 ## Opcion 1
 <img src="E:\Alura\Java - Practicando Spring Boot - Challenge Literalura\literalura\img\Opcion 1.png"/>
